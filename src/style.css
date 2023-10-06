@@ -241,3 +241,12 @@ body {
 .image-container img {
     max-width: 90%;
 }
+
+.home-btn, 
+.shot-btn, 
+.about-btn {
+    background-color: grey;
+    font-family: "MyFont";
+    border-radius: 0px;
+    color: white;
+}
